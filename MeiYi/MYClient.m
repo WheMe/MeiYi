@@ -29,7 +29,7 @@ static MYClient *gSharedInstance = nil;
     @synchronized(self)
     {
         if (gSharedInstance == nil) {
-            gSharedInstance = [[MYClient alloc] initWithBaseURL:[NSURL URLWithString:@"http://mapi.yinyuetai.com/video/channel/videos.json"]];
+            gSharedInstance = [[MYClient alloc] initWithBaseURL:[NSURL URLWithString:@"www.baidu.com "]];
         }
         
     }
