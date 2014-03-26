@@ -1,0 +1,11 @@
+platform :ios,'5.0'
+pod 'Reachability'
+pod 'SDWebImage'
+pod 'Mantle'
+pod 'GMGridView', '~> 1.1.1'
+pod 'SDWebImage',   '~> 3.5'
+pod 'SVPullToRefresh'
+pod 'Base64'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'AFNetworking', '~> 1.x'
+
