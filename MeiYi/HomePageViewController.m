@@ -35,6 +35,7 @@
 {
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectZero];
     label.backgroundColor = [UIColor clearColor];
+    label.backgroundColor = [UIColor redColor];
     label.font = [UIFont boldSystemFontOfSize:20.0];
     //    label.font = [UIFont fontWithName:@"Verdana" size:20.0];
     label.shadowColor = [UIColor colorWithWhite:1.0 alpha:0.5];
